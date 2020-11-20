@@ -17,6 +17,6 @@ public class levelmanger: MonoBehaviour
 
     public void Quit()
     {
-        Application.Quit();
+        Application.Quit(); 
     }
 }
